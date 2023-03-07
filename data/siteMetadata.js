@@ -12,7 +12,7 @@ const siteMetadata = {
   github: 'https://github.com/nutkonon',
   linkedin: 'https://www.linkedin.com/in/jennarong-s-480740209',
   locale: 'en-US',
-  bio: `My nickname is Nut. I'm a Full Stack Developer. I've got more than 6 years experience in software development. I starting coding with .Net Technology and 2 years ago I start learning front-end framework such as React, Vue.js and Devops skills, Software Architecture, CI/CD and keep learning and growth mindset. `,
+  bio: `My nickname is Nut. I'm 30 years old. I'm a Full Stack Developer. I've got more than 6 years experience in software development. I starting coding with .Net Technology and 2 years ago I start learning front-end framework such as React, Vue.js and Devops skills, Software Architecture, CI/CD and keep learning and growth mindset. `,
 }
 
 module.exports = siteMetadata

@@ -83,7 +83,7 @@ export default function Experience() {
       {/* <!-- The dialog --> */}
       <div
         id="dialog"
-        className={`${open} fixed z-50 md:top-1/2 md:left-1/2 -translate-x-1/2 -translate-y-1/2 w-fit bg-white dark:bg-gray-800 rounded-md px-8 py-6 space-y-5 drop-shadow-lg`}
+        className={`${open} fixed z-50 top-1/2 left-1/2 w-screen md:w-fit -translate-x-1/2 -translate-y-1/2  bg-white dark:bg-gray-800 rounded-md px-8 py-6 space-y-5 drop-shadow-lg`}
       >
         <p className="font-semibold text-xl">{detail?.title}</p>
         <p className="font-semibold text-l text-gray-500">{detail?.company}</p>
