@@ -6,9 +6,9 @@ const experience = [
     year: '2022 - Now',
     companyLink: 'http://www.tnis.com/index/',
     responlity: [
-      'Develop and Design web application integration with core system',
-      'Work on fixing bugs',
-      'Maintain, control and enhance application programs after production',
+      'Design and Develop Customer Information System(Web application) integrate with core system',
+      'Design and Develop Mutual Fund System(Web application) integrate with core system',
+      'Design and Develop Web-Tool For Developer(Web application) web for generate api, test api, create workspace, run job scheduler',
     ],
   },
   {
@@ -18,7 +18,11 @@ const experience = [
     year: '2018 - 2022',
     companyLink: 'https://th.kerryexpress.com/th/home',
     responlity: [
-      'Work on fixing bugs and optimizing performance',
+      'Develop Parcel Distribution Management System(Web application)',
+      'Design & Develop Electronic Data Interchange System(API & Application) for internal and integrate with customer',
+      'Develop Shipment Track & Trace System',
+      'Design & Develop Asset Management System(Web application)',
+      'Design & Develop Expense Management System(Web application) integrate with SAP ERP',
       'Work with other team for implement new systems support business',
       'Maintain, control and enhance application programs after production',
       'Co-operate with team leader in estimation effort, developing plan/schedule and performing tasks according to the plan',
@@ -32,7 +36,10 @@ const experience = [
     year: '2016 - 2018',
     companyLink: 'https://www.sfcinemacity.com',
     responlity: [
-      'Work on fixing bugs and optimizing performance',
+      'Develop Web application 3rd party promotion management',
+      'Develop API Gateways sale channel for 3rd party',
+      'Design & Develop Staff Privilege System(Web application)',
+      'Design & Develop SF+ Member Register System(Window application)',
       'Maintain, control and enhance application programs after production',
     ],
   },

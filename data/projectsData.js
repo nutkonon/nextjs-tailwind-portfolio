@@ -61,7 +61,7 @@ const projectsData = [
     company: 'SF Corporation Public Co.,Ltd',
   },
   {
-    title: 'Staff Reward System',
+    title: 'Staff Privilege System',
     description: 'C# .Net, SQL Server',
     company: 'SF Corporation Public Co.,Ltd',
   },
