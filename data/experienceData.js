@@ -18,8 +18,8 @@ const experience = [
     year: '2018 - 2022',
     companyLink: 'https://th.kerryexpress.com/th/home',
     responlity: [
-      'Develop Parcel Distribution Management System(Web application)',
-      'Design & Develop Electronic Data Interchange System(API & Application) for internal and integrate with customer',
+      'Develop Parcel Distribution Management System',
+      'Design & Develop Electronic Data Interchange System for internal and integrate with customer',
       'Develop Shipment Track & Trace System',
       'Design & Develop Asset Management System(Web application)',
       'Design & Develop Expense Management System(Web application) integrate with SAP ERP',
