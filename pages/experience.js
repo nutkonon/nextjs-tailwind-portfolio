@@ -19,7 +19,12 @@ const ExperienceCard = ({ exp, viewDetail }) => {
       />
       <div className="mx-4">
         <h1 className="font-semibold text-xl">{exp.title}</h1>
-        <a href={exp.companyLink} className="text-gray-500">
+        <a
+          href={exp.companyLink}
+          className="text-gray-500"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           {exp.company}
         </a>
         <p className="text-gray-600 dark:text-gray-400 my-2">{exp?.desc}</p>

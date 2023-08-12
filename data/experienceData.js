@@ -1,14 +1,30 @@
 const experience = [
   {
+    title: 'Programmer',
+    company: 'MON Logistics Group Co., Ltd.',
+    imgSrc: '/static/images/MON.jpeg',
+    year: '2023 - Now',
+    companyLink: 'http://www.monlogistics.com/',
+    responlity: [
+      'Design & Develop Web Internal Report System',
+      'Design & Develop Check-in and Check-out Container System',
+      'Design & Develop API for our customer',
+      'Design & Develop Service for integrate internal system',
+      'Work with other team for implement new systems support business',
+      'Maintain, control and enhance application programs after production',
+      'Research and Develop to migrate old core system to microservice architecture',
+    ],
+  },
+  {
     title: 'Full Stack Developer',
     company: 'T.N. Incorporation Limited.',
     imgSrc: '/static/images/TN_logo.jpeg',
-    year: '2022 - Now',
-    companyLink: 'http://www.tnis.com/index/',
+    year: '2022 - 2023',
+    companyLink: 'https://www.linkedin.com/company/tn-digital-solutions/',
     responlity: [
-      'Design and Develop Customer Information System(Web application) integrate with core system',
-      'Design and Develop Mutual Fund System(Web application) integrate with core system',
-      'Design and Develop Web-Tool For Developer(Web application) web for generate api, test api, create workspace, run job scheduler',
+      'Design & Develop Customer Information System(Web application) integrate with core system',
+      'Design & Develop Mutual Fund System(Web application) integrate with core system',
+      'Design & Develop Web-Tool For Developer(Web application) web for generate api, test api, create workspace, run job scheduler',
     ],
   },
   {
